@@ -90,6 +90,7 @@ typer-slim==0.21.1
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.6.3
+umap-learn==0.5.0
 uvicorn==0.40.0
 uvloop==0.22.1
 wasabi==1.1.3
